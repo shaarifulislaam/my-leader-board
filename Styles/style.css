@@ -25,7 +25,7 @@ margin-bottom: 15px;
 .header-nav-container{
    width: 870px;
    height: 94px;
-   margin-left: 130px;
+  
   
 }
 .menu-bar{
@@ -36,19 +36,19 @@ margin-bottom: 15px;
 }
 .left-menu{
   display: flex;
-  justify-content: center;
   align-items: center;
+  margin-left: 230px;
 }
 .left-menu  img{
   width: 40.42px;
-height: 51px;
+  height: 51px;
 }
 .right-menu{
   width: 51px;
 height: 51px;
 display: flex;
 font-weight: 400px;
-justify-content: center;
+
 align-items: center;
  
 }
